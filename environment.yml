@@ -6,5 +6,5 @@ channels:
 dependencies:
   - pygimli
   - numpy
-  - python=3.11.3
+  - python3
   - matplotlib
